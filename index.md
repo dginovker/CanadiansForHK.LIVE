@@ -12,8 +12,9 @@ Number of MPs not contacted: 338
 ## Want to help out?
 
 * Step 1: Contact your representative and ask if they support the democratic movement in Hong Kong!
-* Step 2: Update this table by [sending me an email](http://localhost:4000/about/) with their response!
+* Step 2: Update this table by [sending me an email](/about/) with their response!
 
+You can find your MP and sample letters [here](/sampleletters/)
 
 |Full Name| Email | Phone Number | Supports Hong Kong?|
 |:-:|:-:|:-:|:-:|
