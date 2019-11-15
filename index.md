@@ -4,9 +4,9 @@ layout: post
 
 # List of Canadian Members of Parliment
 
-## Current Support Rate: 0/0
+## Current Support Rate: 1/1
 
-Number of MPs not contacted: 338
+Number of MPs not contacted: 337
 
 
 ## Want to help out?
@@ -154,7 +154,7 @@ Jean Yip | [Jean.Yip@parl.gc.ca](mailto:Jean.Yip@parl.gc.ca) | 416-321-5454 | Un
 Jean-Yves Duclos | [Jean-Yves.Duclos@parl.gc.ca](mailto:Jean-Yves.Duclos@parl.gc.ca) | 418-523-6666 | Unkown
 Jenica Atwin | [Jenica.Atwin@parl.gc.ca](mailto:Jenica.Atwin@parl.gc.ca) | 506-452-4110 | Unkown
 Jennifer O'Connell | [Jennifer.OConnell@parl.gc.ca](mailto:Jennifer.OConnell@parl.gc.ca) | 905-839-2878 | Unkown
-Jenny Kwan | [Jenny.Kwan@parl.gc.ca](mailto:Jenny.Kwan@parl.gc.ca) | 604-775-5800 | Unkown
+Jenny Kwan | [Jenny.Kwan@parl.gc.ca](mailto:Jenny.Kwan@parl.gc.ca) | 604-775-5800 | [Yes](/JennyKwan/)
 Jeremy Patzer | [Jeremy.Patzer@parl.gc.ca](mailto:Jeremy.Patzer@parl.gc.ca) | 306-778-4480 | Unkown
 Jim Carr | [Jim.Carr@parl.gc.ca](mailto:Jim.Carr@parl.gc.ca) | 204-983-1355 | Unkown
 Jody Wilson-Raybould | [Jody.Wilson-Raybould@parl.gc.ca](mailto:Jody.Wilson-Raybould@parl.gc.ca) | 604-717-1140 | Unkown
