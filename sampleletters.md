@@ -6,7 +6,7 @@ permalink: /sampleletters/
 
 You can find your MP here: [https://www.ourcommons.ca/Members/en/search](https://www.ourcommons.ca/Members/en/search)
 
-Here's an email I sent out to my MP:
+Here are a couple emails you can use as a template so far:
 
 *****
 
@@ -23,6 +23,22 @@ can really affect.
 
 
 Thank you for your time, and do let me know.
+
+My Name
+
+*****
+Subject: Support for Hong Kong
+
+Dear Name,
+
+
+On March 31st, 7 months ago, the Civil Human Rights Front in Hong Kong launched their first protest against an extradition bill that they feared would allow them to disappear into the night, much like the infamous Causeway Bay Books disappearance cases from 2015. These protests, while initially supported and protected by the government like in Canada, were soon met with increasingly resilient force by the Hong Kong government and severe crackdowns and arrests were soon made.
+
+
+As a Canadian Member of Parliament, I was wondering if you personally support the Hong Kong protests, and condone the use of escalating violence at the scene.
+
+
+Thank you very much for your time, and I hope to hear back from you soon;
 
 My Name
 
