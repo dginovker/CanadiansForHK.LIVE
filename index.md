@@ -4,9 +4,9 @@ layout: post
 
 # List of Canadian Members of Parliment
 
-## Current Support Rate: 1/1
+## Current Support Rate: 2/2
 
-Number of MPs not contacted: 337
+Number of MPs not contacted: 336
 
 
 ## Want to help out?
@@ -107,7 +107,7 @@ Doug Shipley | [Doug.Shipley@parl.gc.ca](mailto:Doug.Shipley@parl.gc.ca) | 705-7
 Earl Dreeshen | [earl.dreeshen@parl.gc.ca](mailto:earl.dreeshen@parl.gc.ca) | 403-347-7426 | Unkown
 Ed Fast | [ed.fast@parl.gc.ca](mailto:ed.fast@parl.gc.ca) | 604-557-7888 | Unkown
 Élisabeth Brière | [Elisabeth.Briere@parl.gc.ca](mailto:Elisabeth.Briere@parl.gc.ca) | 819-564-4200 | Unkown
-Elizabeth May | [Elizabeth.May@parl.gc.ca](mailto:Elizabeth.May@parl.gc.ca) | 250-657-2000 | Unkown
+Elizabeth May | [Elizabeth.May@parl.gc.ca](mailto:Elizabeth.May@parl.gc.ca) | 250-657-2000 | [Yes](/ElizabethMay/)
 Emmanuel Dubourg | [Emmanuel.Dubourg@parl.gc.ca](mailto:Emmanuel.Dubourg@parl.gc.ca) | 514-323-1212 | Unkown
 Emmanuella Lambropoulos | [Emmanuella.Lambropoulos@parl.gc.ca](mailto:Emmanuella.Lambropoulos@parl.gc.ca) | 514-335-6655 | Unkown
 Eric Duncan | [Eric.Duncan@parl.gc.ca](mailto:Eric.Duncan@parl.gc.ca) | 613-937-3331 | Unkown
